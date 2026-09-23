@@ -1,0 +1,7 @@
+# Requirements for Doctor Visit Analysis Project
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
